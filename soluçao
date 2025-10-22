@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Solução - Saúde em Pitanga</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="problema.html">Problema</a>
+      <a href="solucao.html">Solução</a>
+      <a href="rentabilidade.html">Rentabilidade</a>
+      <a href="concorrentes.html">Concorrentes</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Solução</h1>
+    <p>Investimento na modernização das unidades de saúde, contratação de mais profissionais qualificados e implementação de sistemas digitais para agilizar o atendimento e melhorar a gestão dos recursos.</p>
+  </main>
+
+  <footer>
+    © 2025 Saúde Pitanga - Todos os direitos reservados
+  </footer>
+</body>
+</html>

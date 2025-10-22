@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Problema - Saúde em Pitanga</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="problema.html">Problema</a>
+      <a href="solucao.html">Solução</a>
+      <a href="rentabilidade.html">Rentabilidade</a>
+      <a href="concorrentes.html">Concorrentes</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Problema</h1>
+    <p>Pitanga enfrenta dificuldades na área da saúde pública, como falta de infraestrutura adequada e escassez de profissionais médicos, o que gera demora no atendimento e insatisfação da população.</p>
+  </main>
+
+  <footer>
+    © 2025 Saúde Pitanga - Todos os direitos reservados
+  </footer>
+</body>
+</html>

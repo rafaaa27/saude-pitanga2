@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Concorrentes - Saúde em Pitanga</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="problema.html">Problema</a>
+      <a href="solucao.html">Solução</a>
+      <a href="rentabilidade.html">Rentabilidade</a>
+      <a href="concorrentes.html">Concorrentes</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Concorrentes</h1>
+    <p>Outros municípios próximos investem em tecnologia e parcerias público-privadas na saúde, oferecendo serviços mais eficientes e especializados. Pitanga deve se diferenciar pela atenção humanizada e inovação local.</p>
+  </main>
+
+  <footer>
+    © 2025 Saúde Pitanga - Todos os direitos reservados
+  </footer>
+</body>
+</html>
